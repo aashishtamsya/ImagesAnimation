@@ -4,7 +4,7 @@
 [![Programming Language](https://img.shields.io/badge/language-objective--c-ff69b4.svg)]()
 [![Scrutinizer Build](https://img.shields.io/scrutinizer/build/g/filp/whoops.svg?maxAge=2592000)]()
 
- Image Animation iOS Application in Objective-C, covers various topics like UIButton, UIViewAnimation, Image Assets etc for a intermeditate developer in iOS Development to create and practise.
+ Image Animation iOS Application in Objective-C, covers various topics like UIButton, UIViewAnimation, Image Assets etc for a intermediate developer in iOS Development to create and practise.
 
 Project covers basic fundamental UI elements in iOS like
 
