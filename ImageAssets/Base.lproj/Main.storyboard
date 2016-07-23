@@ -58,7 +58,7 @@
                                     <constraint firstAttribute="height" constant="64" id="FZt-bb-WiO"/>
                                     <constraint firstAttribute="width" secondItem="UsO-2Y-JNp" secondAttribute="height" multiplier="1:1" id="sba-v4-vNP"/>
                                 </constraints>
-                                <state key="normal" image="plus-normal"/>
+                                <state key="normal" image="plus"/>
                                 <variation key="default">
                                     <mask key="constraints">
                                         <exclude reference="8Ir-p6-izB"/>
@@ -139,7 +139,7 @@
         <image name="down-arrow" width="32" height="32"/>
         <image name="left-arrow" width="32" height="32"/>
         <image name="minus" width="32" height="32"/>
-        <image name="plus-normal" width="64" height="64"/>
+        <image name="plus" width="64" height="64"/>
         <image name="right-arrow" width="32" height="32"/>
         <image name="up-arrow" width="32" height="32"/>
     </resources>

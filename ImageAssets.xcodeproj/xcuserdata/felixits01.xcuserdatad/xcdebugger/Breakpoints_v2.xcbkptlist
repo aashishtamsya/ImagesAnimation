@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ImageAssets/ViewController.m"
-            timestampString = "490944177.240139"
+            timestampString = "490944812.147046"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "43"
-            endingLineNumber = "43"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
             landmarkName = "-startButtonTapped:"
             landmarkType = "5">
          </BreakpointContent>
