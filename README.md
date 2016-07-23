@@ -14,9 +14,23 @@ Project covers basic fundamental UI elements in iOS like
 - Transition
 - Scaling
 
-#Requirements
+## Content
+
+-	[Requirements](#requirements)
+-	[Demo](#demo)
+-	[Installation](#installation)
+-	[Contributing](#contributing)
+-	[Credits](#credits)
+-	[License](#license)
+
+## Requirements
 * iOS 9.0+
 * Xcode 7.0
+
+## Demo
+
+![DEMO](https://github.com/aashishtamsya/ImagesAnimation/blob/master/Resources/DEMO/DEMO.gif)
+
 
 ## Installation
 
@@ -26,9 +40,14 @@ Project covers basic fundamental UI elements in iOS like
 $ git clone https://github.com/aashishtamsya/ImagesAnimation.git
 ```
 
-## Demo
 
-![DEMO](https://github.com/aashishtamsya/SoundShakerObjC/blob/master/Resources/Demo/DEMO.gif)
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request. 😉 😊
 
 ## Credits
 
